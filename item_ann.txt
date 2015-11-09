@@ -1,0 +1,1028 @@
+#291#I enjoy learning business and technical knowledge about (Purchasing) module.
+#291#The more difficult it is to understand business and technical knowledge about the (Purchasing) module, the more I enjoy learning it. (1)
+#291#I enjoy learning business and technical knowledge about the (Purchasing) module that are completely new to me.
+#291#I have to feel that I'm personally benefitting from learning business and technical knowledge about the (Purchasing) module. (1,2)
+#291#I want to find out how good I really can be at learning business and technical knowledge about the (Purchasing) module.
+#291#I'm more comfortable when I can set my own goals for learning business and technical knowledge about the (Purchasing) module. (2)
+#291#Using the system is a bad/good idea.
+#291#Using the system is a foolish/wise idea.
+#291#I dislike/like the idea of using the system.
+#291#Using the system is unpleasant/pleasant.
+#291#I find using the system to be enjoyable.
+#291#The actual process of using the system is pleasant.
+#291#I have fun using the system.
+#291#The system makes work more interesting.
+#291#Working with the system is fun.
+#291#The system is okay for some jobs, but not the kind of job I want.
+#291#I like working with the system.
+#291#I look forward to those aspects of my job that require me to use the system.
+#291#Using the system is frustrating for me.
+#291#Once I start working on the system, I find it hard to stop.
+#291#I get bored quickly when using the system.
+#291#Using the system is a bad/good idea.
+#291#The system makes work more interesting.
+#291#Working with the system is fun.
+#291#I like working with the system.
+#291#I have fun interacting with the Web.
+#291#Using the Web provides me with a lot of enjoyment.
+#291#I enjoy using the Web.
+#291#Using the Web bores me.
+#291#Using the Web excites my curiosity.
+#291#Interacting with the Web makes me curious.
+#291#Using the Web arouses my imagination.
+#291#I like working with computers.
+#291#I look forward to those aspects of my job that require me to use a computer.
+#291#Once I start working on the computer, I find it hard to so.
+#291#Using a computer is frustrating for me.
+#291#I get bored quickly when working on a computer.
+#291#I like working with computers.
+#291#Once I get working on the computer, I find it hard to stop.
+#291#PCs make work more interesting.
+#291#Working with a PC is fun.
+#291#PCs are okay for some jobs but not the kind of job I want.
+#291#Using the CRC is a (bad/good) idea.
+#291#Using the CRC is a (foolish/wise) idea.
+#291#I (dislike/like) the idea of using the CRC.
+#291#Using the CRC would be: (unpleasant/ pleasant).
+#291#I think Xӳ Internet site is very exciting.
+#291#The enthusiasm of Xӳ Internet site is catching; it picks me up.
+#291#X doesnӴ just sell products; it entertains me.
+#291#I enjoy shopping from Xӳ Internet site for its own sake, not just for the items I may have purchased.
+#291#I shop from Xӳ Internet site for the pure enjoyment of it.
+#291#I like using this website.
+#291#To me, this is the best retail website to do business with.
+#291#I believe that this is my favorite retail website.
+#291#All things considered, using the Internet TV is Šextremely negative/extremely positive
+#291#All things considered, using the Internet TV is Šextremely bad/extremely good
+#291#All things considered, using the Internet TV is Šextremely harmful/extremely helpful
+#291#Using the Internet TV is enjoyable.
+#291#Using the Internet TV is pleasant.
+#291#Using the Internet TV is fun.
+#291#While using the web site I found my visit interesting.
+#291#While using the web site I found my visit enjoyable.
+#291#While using the web site I found my visit fun.
+#291#Using the system is a (bad/good) idea.
+#291#Using the system is a (foolish/wise) idea.
+#291#I (dislike/like) the idea of using the system.
+#291#Using the system is (unpleasant/pleasant).
+#291#I find using the system to be enjoyable.
+#291#The actual process of using the system is pleasant.
+#291#I have fun using the system.
+#291#The Web site kept me totally absorbed in the browsing.
+#291#The Web site held my attention.
+#291#The Web site excited my curiosity.
+#291#The Web site aroused my imagination.
+#291#The Web site was fun.
+#291#The Web site was intrinsically interesting.
+#291#The Web site was engaging.
+#291#My interaction with this website was disgusting/enjoyable.
+#291#My interaction with this website was dull/exciting.
+#291#My interaction with this website was unpleasant/pleasant.
+#291#During my last visit to Booksamillion.com I found my visit interesting.
+#291#During my last visit to Booksamillion.com I found my visit enjoyable.
+#291#During my last visit to Booksamillion.com I found my visit exciting.
+#291#During my last visit to Booksamillion.com I found my visit fun.
+#291#Using --- is: not enjoyable - very enjoyable.
+#291#Overall, using --- is a: unpleasant - pleasant experience.
+#291#My attitude toward using --- is: very unfavorable - very favorable.
+#291#I would dislike -  like using a website built on this model to perform similar shopping activities.
+#291#Using a website built on this model to perform similar shopping activities would be pleasant ֠unpleasant.
+#291#Using the CRC is a: bad idea - good idea.
+#291#Using the CRC is a: foolish idea - wise idea.
+#291#I: dislike - like the idea of using the CRC.
+#291#Using the CRC would be: unpleasant - pleasant.
+#291#I find my experience with this website interesting.
+#291#I find my experience with this website enjoyable.
+#291#I find my experience with this website exciting.
+#291#I find my experience with this website fun.
+#291#I like shopping on this website.
+#291#Shopping on this website is a good idea.
+#291#Shopping on this website is appealing.
+#291#I expect that using MDS would be enjoyable.
+#291#I expect that using MDS would be pleasurable.
+#291#I expect to have fun using MDS.
+#291#I expect that using MDS would be interesting.
+#291#I find (would find) using Electronic Mail to be enjoyable.
+#291#The actual process of using Electronic Mail is (would be): extremely unpleasant - extremely pleasant
+#291#I have (would have) fun using Electronic Mail.
+#296#People who influence my behavior think that I should use the system.
+#296#People who are important to me think that I should use the system.
+#296#I use the system because of the proportion of coworkers who use the system.
+#296#The senior management of this business has been helpful in the use of the system.
+#296#My supervisor is very supportive of the use of the system for my job.
+#296#In general, the organization has supported the use of the system.
+#296#People who influence my behavior think that I should use the system.
+#296#People who are important to me think that I should use the system.
+#296#The senior management of this business has been helpful in the use of the system.
+#296#In general, the organization has supported the use of the system.
+#296#People who influence my behavior think that I should use the system.
+#296#People who are important to me think that I should use the system.
+#296#Top management thinks I should adopt Windows.
+#296#My close friends think I should adopt Windows.
+#296#My immediate supervisor thinks I should adopt Windows.
+#296#My peers think I should adopt Windows.
+#296#The (name of the MIS department) thinks I should adopt Windows.
+#296#Other computer technical specialists in the organization think I should adopt Windows.
+#296#Most people who are important to me think I should adopt Windows.
+#296#Instructors in other courses would (Strongly support/Strongly oppose) my using [the spreadsheet] rather than my calculator for the assignment.
+#296#Those people who are important to me would (Strongly support/Strongly oppose) my using [the spreadsheet] rather than my calculator for the assignment.
+#296#I think that those people who are important to me would want me to use [the spreadsheet] rather than my calculator for the assignment.
+#296#People whose opinions I value would prefer me to use [the spreadsheet] rather than my calculator for the assignment.
+#296#My friends would think that I should use the CRC.
+#296#Generally speaking, I want to do what my friends think I should do.
+#296#My classmates would think that I should use the CRC.
+#296#Generally speaking, I want to do what my classmates this I should do.
+#296#People who influence my behavior would think that I should use the CRC.
+#296#People who are important to me would think that I should use the CRC.
+#296#My professors would think that I should use the CRC.
+#296#Generally speaking, I want to do what my professors think I should do.
+#296#I will have to use the CRC because my professors require it.
+#296#Generally speaking, I want to do what my professors think I should do.
+#296#Most of my colleagues think the change to the new way of working with the NOP system is a good idea.
+#296#My peers are supportive of the change to the new way of working with the NOP system.
+#296#Most people whom I deal with in my job encourage my change to the new way of working with the NOP system.
+#296#My family thinks that I should use the Internet TV.
+#296#My relatives think that I should use the Internet TV.
+#296#My friends think that I should use the Internet TV.
+#296#People I work with think I should use the Internet TV.
+#296#The city government expects me to use the Internet TV.
+#296#The city government thinks that I should use the Internet TV.
+#296#People who influence me think that I should use the Internet TV.
+#296#People who are important to me think that I should use the Internet TV.
+#296#People who influence my behavior think that I should use the system.
+#296#People who are important to me think that I should use the system.
+#296#People who are important to me think that I should use the system.
+#296#People who influence me think that I should use the system.
+#296#Most people who are important to me think it is a good idea to get information about this product from this website.
+#296#Most people who are important to me would get information about this product from this website.
+#296#My friends would think that I should use the CRC.
+#296#Generally speaking, I want to do what my friends think I should do.
+#296#My classmates would think that I should use the CRC.
+#296#Generally speaking, I want to do what my classmates think I should do.
+#296#My professors would think that I should use the CRC.
+#296#Generally speaking, I want to do what my professors think I should do.
+#296#I will have to use the CRC because my professors require it.
+#296#Generally speaking, I want to do what my professors think I should do.
+#296#People who influence my  behavior would think that I should use the CRC.
+#296#People who are important to me would think that I should use the CRC.
+#296#People who are important to me would want me to use MDS.
+#296#People who influence my behavior would think I should use MDS.
+#296#People whose opinions I value would prefer me to use MDS.
+#296#How much would each of the following people/groups strongly  approve or disapprove of your firm using IT in the next 6 months: Customers/clients?
+#296#How much would each of the following people/groups strongly  approve or disapprove of your firm using IT in the next 6 months: Suppliers/vendors?
+#296#How much would each of the following people/groups strongly  approve or disapprove of your firm using IT in the next 6 months: (Information) systems people/group?
+#296#How much would each of the following people/groups strongly  approve or disapprove of your firm using IT in the next 6 months: All employees who might use it?
+#296#How likely is it that most people who are important to your firm would strongly approve of your firm using IT in the next 6 months?
+#296#My relatives think that I should use a computer.
+#296#My friends believe I should use a computer.
+#296#My professors think I should use a computer.
+#296#I believe that my classmates at college will think I should use a computer.
+#296#How much did each of the following source influence you to subscribe to [this] service? Articles, reviews, advertising, or other activities of the company
+#296#Most people who are important to your firm would: disapprove- approve.
+#277#Learning to operate the system would be easy for me.
+#277#I would find it easy to get the system to do what I want it to do .
+#277#My interaction with the system would be clear and understandable.
+#277#I would find the system to be flexible to interact with.
+#277#It would be easy for me to become skillful at using the system.
+#277#I would find the system easy to use.
+#277#Using the system takes too much time from my normal duties.
+#277#Working with the system is so complicated, it is difficult to understand what is going on.
+#277#Using the system involves too much time doing mechanical operations (e.g., data input).
+#277#It takes too long to learn how to use the system to make it worth the effort.
+#277#My interaction with the system is clear and understandable.
+#277#I believe that it is easy to get the system to do what I want it to do.
+#277#Overall, I believe that the system is easy to use.
+#277#Learning to operate the system is easy for me.
+#277#My interaction with the system would be clear and understandable.
+#277#It would be easy for me to become skillful at using the system.
+#277#I would find the system easy to use.
+#277#Learning to operate the system is easy for me.
+#277#My interaction with the system is clear and understandable.
+#277#Interacting with the system does not require a lot of my mental effort.
+#277#I find the system to be easy to use.
+#277#I find it easy to get the system to do what I want it to do.
+#277#Learning to operate the Web is easy for me.
+#277#I find it easy to get the Web to do what I want it to do.
+#277#It is easy for me to become skillful at using the Web.
+#277#I find the Web easy to use.
+#277#Learning to operate Windows would be easy for me.
+#277#If I were to adopt Windows, it would be easy to use.
+#277#If I were to adopt Windows, it would be difficult to use.
+#277#The interaction with the system is clear and understandable.
+#277#Interaction with the system does not require a lot of mental effort.
+#277#I find the system easy to use.
+#277#I find it easy to get the system to do what I want it to do.
+#277#FEDI is conceptually difficult to understand from a business perspective.
+#277#FEDI is conceptually difficult to understand from a technical perspective.
+#277#Using FEDI is difficult.
+#277#Using FEDI is difficult to maintain an audit trail.
+#277#Using FEDI is difficult to trace and resolve transactional errors.
+#277#Using FEDI is difficult to understand and visualize the whole process of cash disbursement and collection.
+#277#It is easy to become skillful at using the Web site.
+#277#Learning to operate the Web site is easy.
+#277#The Web site is flexible to interact with.
+#277#My interaction with the Web site is clear and understandable.
+#277#Learning to use computers is easy for me.
+#277#I find it easy to get computers to do what I want them to do.
+#277#It is easy for me to become skillful at using computers.
+#277#I find computers easy to use.
+#277#It is easy to learn how to use the computer systems I need.
+#277#The computer systems I use are convenient and easy to use.
+#277#Using a PC takes too much time from my normal duties.
+#277#Working with PCs is so complicated, it is difficult to understand what is going on.
+#277#Using a PC involves too much time doing mechanical operations (e.g., data input)
+#277#It takes too long to learn how to use a PC to make it worth the effort.
+#277#I often become confused when I use the electronic mail system.
+#277#I make errors frequently when using electronic mail.
+#277#Interacting with the electronic mail system is often frustrating.
+#277#I need to consult the user manual often when using electronic mail.
+#277#Interacting with the electronic mail system requires a lot of my mental effort.
+#277#I find it easy to get the electronic mail system to do what I want it to do.
+#277#The electronic mail system often behaves in unexpected ways.
+#277#I find it cumbersome to use the electronic mail system.
+#277#My interaction with the electronic mail system is easy for me to understand.
+#277#It is easy for me to remember how to perform tasks using the electronic mail.
+#277#The electronic mail system provides helpful guidance in performing tasks.
+#277#Overall, I find the electronic mail system easy to use.
+#277#Learning to operate CHART-MASTER would be easy for me
+#277#I would find it easy to get CHART- MASTER to do what I want it to
+#277#My interaction with CHART-MASTER would be clear and understandable
+#277#I would find CHART- MASTER to be flexible to interact with
+#277#It would be easy for me to become skillful at using CHART-MASTER
+#277#I would find CHART-MASTER easy to use
+#277#Is the system user friendly?
+#277#Is the system easy to use?
+#277#I believe that a PWS is cumbersome to use.
+#277#It is easy for me to remember how to perform tasks using a PWS.
+#277#My using a PWS requires a lot of mental effort.
+#277#Using a PWS is often frustrating.
+#277#My interaction with a PWS is clear and understandable.
+#277#I believe that it is easy to get a PWS to do what I want it to do.
+#277#Overall, I believe that a PWS is easy to use.
+#277#Learning to operate a PWS is easy for me.
+#277#Learning to operate the system would be easy for me.
+#277#My interaction with the system would be clear and understandable.
+#277#Instructions for using equipment in the CRC will be hard to follow.
+#277#Instructions that are hard to follow are: (bad/ good).
+#277#It will be difficult to learn how to use the CRC.
+#277#A service that is difficult to learn is: (bad/good).
+#277#It will be easy to operate the equipment in the CRC.
+#277#A service with equipment that is easy to operate is: (bad/good).
+#277#The task of selecting digital cameras using the virtual advisor took too much time.
+#277#Selecting digital cameras using the virtual advisor required too much effort.
+#277#Selecting digital cameras using the virtual advisor was too complex.
+#277#Based on my own knowledge, skills and abilities, changing to the new way of working with the NOP system would be easy for me.
+#277#I am able to change to the new way of working with the NOP system without the help of others.
+#277#I am able to change to the new way of working with the NOP system reasonably well on my own.
+#277#My interaction with the Internet TV is clear and understandable.
+#277#Interacting with the Internet TV does not require a lot of my mental effort.
+#277#I find the Internet TV easy to use.
+#277#I find it easy to get the Internet TV to do what I want it to.
+#277#Learning to use this web site would be easy for me.
+#277#My interaction with this web site is clear and understandable.
+#277#It would be easy for me to become skillful at using this web site.
+#277#I find this web site easy to use.
+#277#Learning to operate the (task-related) platform portions of (system) is easy for me.
+#277#I find it easy to get the (task-related) portions of (system) to do what I want it to do.
+#277#My interaction with the (task-related)portions of (system) has been clear and understandable.
+#277#I find the (task-related) portions of (system) to be flexible to interact with.
+#277#It is easy for me to become skillful at using the (task-related) portions of (system)
+#277#I find the (task-related) portions of (system) easy to use.
+#277#To aid me in my (accomplishment of tasks), overall, I feel (system) as a (technology type) is: easy to learn-difficult to learn
+#277#To aid me in my (accomplishment of tasks), overall, I feel (system) as a (technology type) is: easy to manipulate-difficult to manipulate
+#277#To aid me in my (accomplishment of tasks), overall, I feel (system) as a (technology type) is: clear to interact with-obscure to interact with
+#277#To aid me in my (accomplishment of tasks), overall, I feel (system) as a (technology type) is: flexible to interact with - rigid to interact with
+#277#To aid me in my (accomplishment of tasks), overall, I feel (system) as a (technology type) is: easy to master - difficult to master
+#277#To aid me in my (accomplishment of tasks), overall, I feel (system) as a (technology type) is: very usable - very cumbersome
+#277#My interaction with the system is clear and understandable.
+#277#Interacting with the system does not require a lot of my mental effort.
+#277#I find the system to be easy to use.
+#277#I find it easy to get the system to do what I want it to do.
+#277#Getting information about this product from this website would be easy.
+#277#For me, getting product information easily from a website is: not at all important- extremely important.
+#277#Learning how to get information about this product from this website would be easy.
+#277#For me, learning how to get product information easily from a website is: not at all important- extremely important.
+#277#I expect the sequencing of hyperlinks in this website to be clear.
+#277#Having a clear sequence of hyperlinks would make it: much more difficult- easier for me to get information about this product.
+#277#I expect the layout of this website to be intuitive.
+#277#A website with an intuitive layout would make it: much more difficult- easier for me to get information about this product.
+#277#Purchasing this product from this website would be easy.
+#277#For me, purchasing products easily from a Web vendor is: not at all important- extremely important.
+#277# Learning how to purchase this product from this Web vendor would be easy.
+#277#For me, learning how to purchase products easily from a Web vendor is: not at all important- extremely important.
+#277#I believe that a PWS is cumbersome to use.
+#277#It is easy for me to remember how to perform tasks using a PWS.
+#277#My using a PWS requires a lot of mental effort.
+#277#Using a PWS is often frustrating.
+#277#My interaction with a PWS is clear and understandable.
+#277#I believe that it is easy to get a PWS to do what I want it to do.
+#277#Overall, I believe that a PWS is easy to use.
+#277#Learning to operate a PWS is easy for me.
+#277#I felt lost.
+#277#I felt like I was going around in circles.
+#277#It was difficult to find a page that I had previously viewed.
+#277#Navigating between pages was a problem.
+#277#I didn't know how to get to my desired location.
+#277#I felt disoriented.
+#277#After browsing for a while I had no idea where to go next.
+#277#Learning to operate the CRM system is easy for me.
+#277#I find it easy to get the CRM system to do what I want it to do.
+#277#I find the CRM system easy to use.
+#277#I find the CRM system to be flexible to interact with.
+#277#My interaction with the CRM system is clear and understandable.
+#277#It is easy for me to become skillful at using the CRM system.
+#277#Learning to operate the Exact card system was easy for me and my staff.
+#277#My staff and I find it easy to get the Exact card system to do what we want it to do.
+#277#Using the Exact card system is clear and understandable for me and my staff.
+#277#My staff and I find the Exact card system to be flexible to use.
+#277#It was easy for my staff and I to become skillful at using the Exact card system.
+#277#My staff and I find the Exact card system easy to use.
+#277#Learning to operate the Exact card system was easy for me and my staff.
+#277#My staff and I find it easy to get the Exact card system to do what we want it to do.
+#277#Using the Exact card system is clear and understandable for me and my staff.
+#277#My staff and I find the Exact card system easy to use.
+#277#Is student information system (SIS) user friendly?
+#277#Is student information system (SIS) easy to use?
+#277#Learning to use Booksamillion.com would be easy for me.
+#277#My interaction with Booksamillion.com is clear and understandable.
+#277#It would be easy for me to become skillful at using Books amillion.com.
+#277#I find Booksamillion.com easy to use.
+#277#Learning to operate an electronic meeting system is [would be] easy for groups I work with.
+#277#Groups I work with find [would find] it easy to get an electronic meeting system to do what they want [would want] it to do.
+#277#Groups I work with find [would find] their interaction with an electronic meeting system clear and understandable.
+#277#Groups I work with find [would find] an electronic meeting system to be flexible to interact with.
+#277#It is [would be] easy for groups I work with to become skillful at using an electronic meeting system.
+#277#Overall, groups I work with find [would find] and electronic meeting system easy to use.
+#277#Based on the reports provided to you about the Web site, do you expect that the Web site has a simple layout for its contents?
+#277#Based on the reports provided to you about the Web site, do you expect that the Web site is easy to use?
+#277#Based on the reports provided to you about the Web site, do you expect that the Web site is well organized?
+#277#Based on the reports provided to you about the Web site, do you expect that the Web site is a clear design?
+#277#Based on the reports provided to you about the Web site, do you expect that the Web site  in general, is user friendly?
+#277#Based on the reports provided to you about the Web site, do you expect that the Web site is easy to go back and forth between pages?
+#277#Based on the reports provided to you about the Web site, do you expect that the Web site provides a few clicks to locate information?
+#277#Based on the reports provided to you about the Web site, do you expect that the Web site in general, is easy to navigate?
+#277#The Web siteӳ performance that has a simple layout for its contents was: very poor - very good.
+#277#The Web siteӳ performance that is easy to use was: very poor - very good.
+#277#The Web siteӳ performance that is well organized was: very poor - very good.
+#277#The Web siteӳ performance that is a clear design was: very poor - very good.
+#277#The Web siteӳ performance that in general, is user-friendly was: very poor - very good.
+#277#The Web siteӳ performance that is easy to go back and forth between pages was: very poor - very good.
+#277#The Web siteӳ performance that provides a few clicks to locate information was: very poor - very good.
+#277#The Web siteӳ performance that in general, is easy to navigate was: very poor - very good.
+#277#The performance of the Web site that has a simple layout for its contents was: much lower than you thought - much higher than you thought.
+#277#The performance of the Web site that is easy to use was: much lower than you thought - much higher than you thought.
+#277#The performance of the Web site that is well organized was: much lower than you thought - much higher than you thought.
+#277#The performance of the Web site that is a clear design was: much lower than you thought - much higher than you thought.
+#277#The performance of the Web site that in general, is user-friendly was: much lower than you thought - much higher than you thought.
+#277#The performance of the Web site that is easy to go back and forth between pages was: much lower than you thought - much higher than you thought.
+#277#The performance of the Web site that provides a few clicks to locate information was: much lower than you thought - much higher than you thought.
+#277#The performance of the Web site that in general, is easy to navigate was: much lower than you thought - much higher than you thought.
+#277#It is easy to learn how to use the computer systems that give me access to data.
+#277# The computer systems that give me access to the data are convenient and easy to use.
+#277#Overall, I believe that shopping online is easier.
+#277#It is easy for me to shop online.
+#277#My interactions during shopping online were clear and understandable.
+#277#I believe that it is easy to do what I want to do while shopping online.
+#277# is easy to use.
+#277#it is easy to get --- to do what I want it to do.
+#277#is easy to operate.
+#277# allows information to be readily accessible to me.
+#277#makes information very accessible.
+#277#makes information easy to access.
+#277#Instructions for using equipment in the CRC will be hard to follow.
+#277#Instructions that are hard to follow are: bad - good.
+#277#It will be difficult to learn how to use the CRC.
+#277#A service that is difficult to learn is: bad - good.
+#277#It will be easy to operate the equipment in the CRC.
+#277#A service with equipment that is easy to operate is: bad - good.
+#277#I expect that learning how to use MDS would be easy for me.
+#277#I expect that my interaction with MDS would be clear and understandable.
+#277#I would find MDS to be easy to use.
+#277#I expect that it would be easy for me to become skillful at using MDS.
+#277#Learning to operate an EMS is [would be] easy for groups I work with.
+#277#Groups I work with find [would find] it easy to get an EMS to do what they want [would want] it to do.
+#277#Groups I would with find [would find] their interaction with an EMS clear and understandable.
+#277#Groups I work with find [would find] and EMS to be flexible to interact with.
+#277#It is [would be] easy for groups I work with to become skillful at using an EMS.
+#277# Overall groups I work with find [would find ]an EMS easy to use.
+#277#Using an EMS enables [would enable] groups I normally work with to accomplish their tasks more quickly.
+#277#The user can instruct the tools to redraw a diagram on the screen so that it is uncluttered and easy to read.
+#277#I find it easy to recover from errors encountered while using electronic mail.
+#277#The electronic mail system is rigid and inflexible to interact with.
+#277#Interacting with this website does not require a lot of mental effort.
+#277#I find it easy to get the website to do what I want it to do.
+#277#I find the website easy to use.
+#277#Overall, I believe it was easy for me to understand what the class diagram was trying to model.
+#277#Overall, I believe that the class diagram was easy to use.
+#277#Understanding the class diagram was difficult.
+#277#The clarity between text and images was: high - low.
+#277#The images (or graphics) on the webpages were: similar - dissimilar.
+#277#The information items on the webpages were: similar - dissimilar.
+#277#The text on the webpages was: short - long.
+#277#The webpage backgrounds were: not visually dense at all - visually dense.
+#277#The graphics on the webpages were: not visually dense at all - visually dense.
+#277#The layout of the webpages was: not visually dense at all - visually dense.
+#277#Procedures to browse the websites were: unclear - clear.
+#277#Hyperlinks on the website were: unambiguous - ambiguous.
+#277#Information presented on the websites was: unambiguous - ambiguous.
+#277#Information on the succeeding links from the initial page was: predictable - unpredictable.
+#277#Individual links took me to desired webpages: always - never.
+#277#Information presented on the website was: uncertain - certain.
+#277#It is easy for me to become skillful in using computers.
+#277#I find computers easy to use.
+#277#I find it easy to get a computer to do what I want it to do.
+#277#Learning to operate a computer is easy for me.
+#277#At the time I subscribed, I felt this online service would be hard to learn.
+#277#At the time I subscribed, I felt this online service would be quite complicated to master.
+#277#At the time I subscribed, I felt this online service would be difficult to use.
+#277#At the time I subscribed, I felt this online service would have a complex, hard-to-learn system
+#277#There is not enough training for me or my staff on how to find, understand, access or use the company computer systems.
+#277#I am getting the training I need to be able to use company computer systems, languages, procedures and data effectively.
+#278#I am keenly aware of the income goals I have for myself if I learn business and technical knowledge about the (Purchasing) module. (2)
+#278#I am strongly motivated by the money I can earn if I learn business and technical knowledge about the (Purchasing) module. (1,2)
+#278#I am keenly aware of the promotion goals I have for myself if I learn business and technical knowledge about the (Purchasing) module. (2)
+#278#If I learn business and technical knowledge about the (Purchasing) module, I want other people to find out how good I am. (1)
+#278#I am strongly motivated by the recognition I can earn from other people for learning business and technical knowledge about the (Purchasing) module. (1)
+#278#I have to feel that I'm earning something for learning business and technical knowledge about the (Purchasing) module.
+#278#Using the system in my job would enable me to accomplish tasks more quickly.
+#278#Using the system would improve my job performance.
+#278#Using the system in my job would increase my productivity.
+#278#Using the system would enhance my effectiveness on the job.
+#278#Using the system would make it easier to do my job.
+#278#I would find the system useful in my job.
+#278#Using the system in my job would enable me to accomplish tasks more quickly.
+#278#Using the system would improve my job performance.
+#278#Using the system in my job would increase my productivity.
+#278#Using the system would enhance my effectiveness on the job.
+#278#Using the system would make it easier to do my job.
+#278#I would find the system useful in my job.
+#278#Use of the system will have no effect on the performance of my job.
+#278#Use of the system can decrease the time needed for my important job responsibiiities.
+#278#Use of the system can significantly increase the quality of output on my job
+#278#Use of the system can increase the effectiveness of performing job tasks.
+#278#Use can increase the quantity of output for the same amount of effort
+#278#Considering all tasks, the general extent to which use of the system could assist on the job.
+#278#Using the system enables me to accomplish tasks more quickly.
+#278#Using the system improves the quality of the work I do my job.
+#278#Using the system enhances my effectiveness on the job.
+#278#Using the system increases my productivity.
+#278#If I use the system I will increase my effectiveness on the job.
+#278#I will spend less time on routine job tasks.
+#278#I will increase the quality of output of my job.
+#278#I will increase the quantity of output for the same amount of effort.
+#278#My coworkers will perceive me as competent.
+#278#I will increase my chances of obtaining a promotion.
+#278#I will increase my chances of getting a raise.
+#278#I would find the system useful in my job.
+#278#Using the system enables me to accomplish tasks more quickly.
+#278#Using the system increases my productivity.
+#278#If I use the system, I will increase my chances of getting a raise.
+#278#Using the system improves my performance in my job.
+#278#Using the system in my job increases my productivity.
+#278#Using the system enhances my effectiveness.
+#278#I find the system to be useful in my job.
+#278#Using the Web enhances my effectiveness in college.
+#278#Using the Web enhances my productivity.
+#278#I find the Web useful in my college activities.
+#278#Using the Web improves my performance in college.
+#278#If I were to adopt Windows, it would enable me to accomplish my tasks more quickly.
+#278#If I were to adopt Windows, the quality of my work would improve.
+#278#If I were to adopt Windows, it would enhance my effectiveness on the job.
+#278#If I were to adopt Windows, it would make my job easier.
+#278#If I use a computer I will be better organized.
+#278#If I use a computer I will increase my effectiveness on the job.
+#278#If I use a computer I will spend less time on routine job tasks.
+#278#If I use a computer I will increase the quality of output of my job.
+#278#If I use a computer I will increase the quantity of output for the same amount of effort.
+#278#If I use a computer I will be less reliant on clerical support staff.
+#278#If I use a computer my co-workers will perceive me as competent.
+#278#If I use a computer I will increase my sense of accomplishment.
+#278#If I use a computer I will increase my chances of obtaining a promotion.
+#278#If I use a computer I will be seen as higher in status by my peers.
+#278#If I use a computer I will increase my chances of getting a raise.
+#278#Using CBT will improve my performance
+#278#Using CBT will increase my productivity
+#278#Using CBT will enhance my effectiveness
+#278#CBT will be useful for my studies
+#278#By using the system I can decide more quickly and more easily which movie I want to go see than in the past.
+#278#By using the system I can better decide which movie I want to go see than in the past.
+#278#By using the system I am better informed about new movies.
+#278#By using the system I can decide more quickly and more easily whether I want to go see a particular movie or not.
+#278#By using the system I can better decide whether I want to go see a particular movie or not.
+#278#The Web site improves my performance in CD/book searching and buying.
+#278#The Web site enables me to search and buy CDs/books faster.
+#278#The Web site enhances my effectiveness in CD/book searching and buying.
+#278#The Web site increases my productivity in searching and purchasing CDs/books.
+#278#Using OBD improves my performance in managing personal finances.
+#278#Using OBD increases my productivity in managing personal finances.
+#278#Using OBD enhances my effectiveness in managing personal finances.
+#278#Overall, OBD is useful in managing personal finances.
+#278#Using the second system enabled me to accomplish my evaluation task more quickly.
+#278#Using the second system improved the quality of the evaluation I performed.
+#278#Using the second system made the evaluation task easier to do.
+#278#Using the second system enhanced my effectiveness in completing the evaluation task.
+#278#Using the second system increased my productivity in performing the evaluation task.
+#278#Using the second system allowed me to accomplish or view more information related to understanding the two departments than would otherwise have been possible.
+#278#The second system enhanced the quality of my evaluation judgment.
+#278#The second system supported all the various types of activities required to complete the evaluation task.
+#278#Overall, I found the second system useful in performing the evaluation task.
+#278#Using computers improves my job performance.
+#278#Using computers improves my productivity on the job.
+#278#I find using computers useful in my job.
+#278#Using computers enhances my effectiveness on the job.
+#278#How useful to you has computer-based information been during the annual budget preparation process?
+#278#How useful to you has computer-based information been for day-to-day expenditure decisions?
+#278#How useful to you has computer-based information been in managing your financial resources in order to prevent overspending?
+#278#How useful to you has computer-based information been in identifying where there might be slack resources that could be to other purposes?
+#278#Computers have made it easier for me to get the information I need.
+#278#Computers save me time in looking for information.
+#278#Difficulties in accessing computer-based data gathered or held by other departments and agencies.
+#278#Use of a PC will have no effect on the performance of my job.
+#278#Use of a PC can decrease the time needed for my important job responsibilities.
+#278#Use of a PC can significantly increase the quality of output of my job.
+#278#Use of a PC can increase the effectiveness of performing job tasks (e.g., analysis)
+#278#A PC can increase the quantity of output for same amount of effort.
+#278#Considering all tasks, the general extent to which use of PC could assist on job.
+#278#Use of a PC will increase the level of challenge on my job.
+#278#Use of a PC will increase the opportunity for preferred future job assignments.
+#278#Use of a PC will increase the amount of variety on my job.
+#278#Use of a PC will increase the opportunity for more meaningful work.
+#278#Use of a PC will increase the flexibility of changing jobs.
+#278#Use of a PC will increase the opportunity to gain job security.
+#278#My job would be difficult to perform without electronic mail.
+#278#Using electronic mail gives me greater control over my work.
+#278#Using electronic mail improves my job performance.
+#278#The electronic mail system addresses my job-related needs.
+#278#Using electronic mail saves me time.
+#278#Electronic mail enables me to accomplish tasks more quickly.
+#278#Electronic mail supports critical aspects of my job.
+#278#Using electronic mail allows me to accomplish more work than would otherwise be possible.
+#278#Using electronic mail reduces the time I spend on unproductive activities.
+#278#Using electronic mail enhances my effectiveness on the job.
+#278#Using electronic mail improves the quality of the work I do.
+#278#Using electronic mail increases my productivity.
+#278#Using electronic mail makes it easier to do my job.
+#278#Overall, I find the electronic mail system useful in my job.
+#278#Using CHART-MASTER in my job would enable me to accomplish my tasks more quickly
+#278#Using CHART-MASTER would improve my job performance
+#278#Using CHART-MASTER in my job would increase my productivity
+#278#Using CHART-MASTER would enhance my effectiveness on the job
+#278#Using CHART-MASTER would make it easier to do my job
+#278#I would find CHART-MASTER useful in my job
+#278#Using a PWS enables me to accomplish tasks more quickly.
+#278#Using a PWS improves the quality of work I do.
+#278#Using a PWS makes it easier to do my job.
+#278#The disadvantages of my using a PWS far outweigh the advantages.
+#278#Using a PWS improves my job performance.
+#278#Overall, I find using a PWS to be advantageous in my job.
+#278#Using a PWS enhances my effectiveness on the job.
+#278#Using a PWS gives me greater control over my work.
+#278#Using a PWS increases my productivity.
+#278#It would take me (Much more/Much less) time to do the assignment with [the spreadsheet] than to do the assignment with my calculator.
+#278#How important is it to you that you get the assignment done quickly?
+#278#CRC will be of no benefit to me.
+#278#A service that is of no benefit to me is: (bad/good).
+#278#Using the CRC will improve my grades.
+#278# A service that will improve my grades is: (bad/good).
+#278#The advantages of the CRC will outweigh the disadvantages.
+#278#A service with more advantages than disadvantages is: (bad/good).
+#278#Overall, using the CRC will be advantageous.
+#278#A service that is advantageous is: (bad/good).
+#278#Using the system makes it easier to do my job.
+#278#Considering the time and effort that I have to spend, the change to the new way of working with the NOP system is worthwhile .
+#278#Considering the loss that I incur, the change to the new way of working with the NOP system is of good value.
+#278#Considering the hassle that I have to experience, the change to the new way of working with the NOP system is beneficial to me.
+#278#Changing to the new way of working with the NOP system would enhance my effectiveness on the job than working in the current way.
+#278#Changing to the new way of working with the NOP system would enable me to accomplish relevant tasks more quickly than working in the current way.
+#278#Changing to the new way of working with the NOP system would increase my productivity than working in the current way.
+#278#Changing to the new way of working with the NOP system would improve the quality of the work I do than working in the current way.
+#278#Using the Internet TV improves my performance for communication and information search.
+#278#Using the internet TV improves my productivity for communication and information search.
+#278#Using the internet TV enhances my effectiveness for communication & information search.
+#278#Using the Internet TV is useful for my communication and information search.
+#278#Using this web site can improve my shopping performance.
+#278#Using this web site can increase my shopping productivity.
+#278#Using this web site can increase my shopping effectiveness.
+#278#I find using this web site useful.
+#278#I would find it more convenient to educate myself about auto insurance policy coverages by reading from the web site than by asking questions of an agent.
+#278#I would find a lower price for my policy using the web than through an agent.
+#278#It would be more convenient for me to use the web to compare auto insurance prices than an agent.
+#278#I would find it more convenient to use this web tool rather than an agent.
+#278#I would find it more convenient to purchase the policy on the web than through an agent.
+#278#I would find it more convenient to file a claim on the web than through an agent.
+#278#I would find it more convenient to use this web tool rather than an agent.
+#278#It would be more convenient for me to use the web to compare auto insurance prices than an agent.
+#278#One of the advantages of shopping on the web is the absence of sales pressure.
+#278#Shopping on the web saves time.
+#278#Shopping on the web saves money.
+#278#Shopping on the web is very convenient.
+#278#Shopping on the web allows me to compare prices easily.
+#278#Using (system) as a (technology type) enables me to (accomplish tasks) more quickly.
+#278#Using (system) improves my (ability to accomplish task).
+#278#Using (system) as a (technology type) increases my productivity.
+#278#Using (system) enhances my effectiveness in (accomplishing task).
+#278#Using (system) makes it easier to do my (task).
+#278#I find (system) useful in my (task completion).
+#278#To aid me in my (accomplishment of tasks), overall, I feel (system) as a (technology type) is: efficient-inefficient
+#278#To aid me in my (accomplishment of tasks), overall, I feel (system) as a (technology type) is: performance enhancing-performance degrading
+#278#To aid me in my (accomplishment of tasks), overall, I feel (system) as a (technology type) is: productivity increasing-productivity decreasing
+#278#To aid me in my (accomplishment of tasks), overall, I feel (system) as a (technology type) is: effective-ineffective
+#278#To aid me in my (accomplishment of tasks), overall, I feel (system) as a (technology type) is: helpful-unhelpful
+#278#To aid me in my (accomplishment of tasks), overall, I feel (system) as a (technology type) is: quite useful-quite useless
+#278#The website improves my online shopping performance.
+#278#The website improves my online decision-making in online shopping.
+#278#The website increases my online shopping effectiveness.
+#278#I find this website useful.
+#278#The WWW is of benefit to me.
+#278#The advantages of the WWW outweigh the disadvantages.
+#278#Overall, using the WWW is advantageous.
+#278#Using the system improves my performance in my job.
+#278#Using the system in my job increases my productivity.
+#278#Using the system enhances my effectiveness in my job.
+#278#I find the system to be useful in my job.
+#278#This website would be useful for getting valuable information about this product.
+#278#For me, getting valuable information about a product from a website is: not at all important- extremely important.
+#278#This website would enhance my effectiveness in getting useful information about this product.
+#278#For me, getting useful information about a product from a website is: not at all important- extremely important.
+#278#This website would be useful in purchasing this product.
+#278#For me, a website that is useful in purchasing products is: not at all important- extremely important.
+#278#This website would enhance my effectiveness in purchasing this product.
+#278#For me, a website that enhances my effectiveness in purchasing products is: not at all important- extremely important.
+#278#Using a PWS enables me to accomplish tasks more quickly.
+#278#Using a PWS improves the quality of work I do.
+#278#Using a PWS makes it easier to do my job.
+#278#The disadvantages of my using a PWS far outweigh the advantages.
+#278#Using a PWS improves my job performance.
+#278#Overall, I find using a PWS to be advantageous in my job.
+#278#Using a PWS enhances my effectiveness on the job.
+#278#Using a PWS gives me greater control over my work.
+#278#Using a PWS increases my productivity.
+#278#Using DMS in my job will increase my productivity (e.g., make my work faster).
+#278#Using DMS in my job will improve my performance (e.g., make my work better).
+#278#Using DMS in my job will make me more effective (e.g., help me make better decisions).
+#278#I find DMS to be useful in my job.
+#278#Using the CRM system in my job will increase my productivity.
+#278#Using the CRM system will enhance my effectiveness on the job.
+#278#Using the CRM system will make it easier to do my job.
+#278#Using the CRM system will improve my job performance.
+#278#Using this website can improve my shopping performance.
+#278#Using this website can increase my shopping productivity.
+#278#Using this website can increase my shopping effectiveness.
+#278#Using this website improved my performance in shopping.
+#278#Using this website increased my productivity in shopping.
+#278#Using this website enhanced my effectiveness in shopping.
+#278#Overall, using this website is useful in shopping.
+#278#Using an Open Source alternative for MS Office will negatively impact my ability to complete tasks.
+#278#Using a student information system enables me to accomplish student-related tasks more quickly.
+#278#Using a student information system improves my job performance.
+#278#Using a student information system in my job increases my productivity.
+#278#Using a student information system enhances my effectiveness on the job.
+#278#Using a student information system makes it easier to do my job.
+#278#I find a student information system useful on my job.
+#278#Using Booksamillion.com can improve my shopping performance.
+#278#Using Booksamillion.com can increase my shopping productivity.
+#278#Using Booksamillion.com can increase my shopping effectiveness.
+#278#I find using Booksamillion.com useful.
+#278#Using and electronic meeting system enables [would enable] groups I normally work with to accomplish the tasks more quickly.
+#278#Using an electronic meeting system improves [would improve] the performance of groups I work with.
+#278#Using an electronic meeting system increases [would increase] the productivity of groups I work with.
+#278#Using an electronic meeting system enhances [would enhance] the effectiveness of groups I work with.
+#278#Using an electronic meeting system makes it [would make it] easier for groups I work with to carry out their tasks.
+#278#Groups I work find [would find] an electronic meeting system useful for group work.
+#278#Information that is informative to your purchase decision is: not important at all - extremely important.
+#278#Information that is valuable to your purchase decision is: not important at all - extremely important.
+#278#In general, information that is useful in your purchase decision is: not important at all - extremely important.
+#278#Shopping online gives me greater control.
+#278#Shopping online improves the quality of decision making.
+#278#Shopping online is a more effective way to make purchase.
+#278#Overall, I find shopping online very useful.
+#278#Shopping online helps me accomplish tasks more quickly.
+#278#I did not have to spend too much time to complete the transaction.
+#278#I did not have to spend too much effort to complete the transaction.
+#278#It enabled us to make decisions more quickly.
+#278#It increased our productivity.
+#278#It improved our performance.
+#278#Using --- improves my ability to make good decisions.
+#278#allows me to get my work done more quickly.
+#278#Using --- enhances my effectiveness on the job.
+#278#The DSS gave clear guidance on how I could do better.
+#278#The tools provided by the site help me replace a product.
+#278#The tools provided by the site help me replace my product if I need another product.
+#278#The tools provided by the site allow me to find where to get a replacement product if mine is not working.
+#278#The tools provided by the site help me to establish my product requirements.
+#278#The tools provided by the site help me in determining my product needs.
+#278#The tools provided by the site help me better figure out my product requirements.
+#278#The tools provided by the site help me determine the attributes of the product I intend to buy.
+#278#The tools provided by the site aid me in identifying which product attributes best fit my needs.
+#278#The tools provided by the site let me specify the product features that I want.
+#278#The tools provided by the site allow me to verify the acceptability of a product before I use it.
+#278#The tools provided by the site provide me with enough information to determine the quality of the product before buying.
+#278#Using the site enabled me to shop more quickly.
+#278#In my opinion, using the site increased my shopping effectiveness.
+#278#Overall, the site was useful for shopping.
+#278#Knowledge gained using this system will be helpful to me with other systems in the future.
+#278#Knowing how to use this system makes me more marketable.
+#278#If I use a computer I will be better organized.
+#278#If I use a computer my co-workers will perceive me as competent.
+#278#If I use a computer I will increase my sense of accomplishment.
+#278#If I use a computer I will increase my chances of obtaining a promo.
+#278#If I use a computer I will increase my effectiveness on the job
+#278#If I use a computer I will be seen as higher in status by my peers.
+#278#If I use a computer I will increase my chances of getting a raise.
+#278#If I use a computer I will spend less time on routine job tasks.
+#278#If I use a computer I will increase the quality of output of my job.
+#278#If I use a computer I will increase the quantity of output for the same amount of effort.
+#278#If I use a computer I will be less reliant on clerical support staff.
+#278#The CRC will be of no benefit to me.
+#278#A service that is of no benefit to me is: bad - good.
+#278#Using the CRC will improve my grades.
+#278#A service that will improve my grades is: bad - good.
+#278#The advantages of the CRC will outweigh the disadvantages.
+#278#A service with more advantages than disadvantages is: bad - good.
+#278#Overall, using the CRC will be advantageous.
+#278#A service that is advantageous is: bad - good.
+#278#Using MDS would increase my chances of achieving things that are important to me.
+#278#I would find MDS to be useful in my daily life.
+#278#Using MDS would help me accomplish things more quickly.
+#278#Because {subordinate} uses software process improvements {subordinate} has improved the quality of his or her work.
+#278#Because {subordinate} uses software process improvements {subordinate} is more productive in his or her work.
+#278#Because {subordinate} uses software process improvements {subordinate} is more effective in his or her work.
+#278#Amazon.com is useful in shopping for CDs.
+#278#Amazon.com improves my performance in shopping for CDS.
+#278#Amazon.com enables me to shop for CDs faster.
+#278#Amazon.com enhances my effectiveness in CD shopping.
+#278#Amazon.com makes it easier to shop for CDs.
+#278#Amazon.com increases my productivity in shopping for CDs.
+#278#Using an EMS improves [would improve] the performance of groups I work with.
+#278#Using an EMS increases [would increase] the productivity of groups I work with.
+#278#Using an EMS enhances [would enhance] the effectiveness of groups I work with.
+#278#Using an EMS makes it [would make it] easier for groups I work with to carry out their tasks.
+#278#Groups I work find [would find] an EMS useful for group work.
+#278#Compared to Google alone: enables me to find good information faster.
+#278#Compared to Google alone: is useful for searching information on the Web.
+#278#Compared to Google alone: improves my performance in Web querying.
+#278#Compared to Google alone: increases my productivity in searching the Web.
+#278#Using Electronic Mail in my job enables (would enable) me to accomplish tasks more quickly.
+#278#Using Electronic Mail improves (would improve) my job performance.
+#278#Using Electronic Mail in my job increases (would increase) my productivity.
+#278#Using Electronic Mail enhances (would enhance) my effectiveness on the job.
+#278#Using Electronic Mail makes it (would make it)easier to do my job.
+#278#I find (would find) Electronic Mail useful in my job.
+#278#The accuracy of the information I receive will be improved by the PCS.
+#278#Using the portal site enhances my effectiveness.
+#278#Using the portal site enhances my productivity.
+#278#Using the portal site improves my performance.
+#278#Using computers enhances my productivity in college.
+#278#I find computers useful in my college activities.
+#278#Using computers enhances my effectiveness in college.
+#278#Using computers improves my performance in college.
+#278#At the time I subscribed, I felt this online service would save me time/effort over other means of performing the same tasks.
+#278#At the time I subscribed, I felt this online service would enable me to perform many tasks better than through other means.
+#278#At the time I subscribed, I felt this online service would provide a greater value than other ways of performing the same task.
+#278#At the time I subscribed, I felt this online service would be better than other ways of performing the same activities.
+#343#(Consultant William) is trustworthy.
+#343#(Consultant William) is experienced.
+#343#(Consultant William) is well-trained.
+#343#The level of appreciation that the [IS organization] and the [line organization] have for each other's accomplishments is: extremely weak- extremely strong.
+#343#The level of trust that exists between the [IS organization] and the [line organization] is: extremely weak- extremely strong.
+#343#The reputation of the [line organization] for meeting its commitments to the [IS organization] is: extremely weak- extremely strong.
+#343#The reputation of the [IS organization] for meeting its commitments to the [line organization] is: extremely weak- extremely strong.
+#343#I believe that people in my organization give credit for other's knowledge where it is due.
+#343#I believe that people in my organization do not use unauthorized knowledge.
+#343#I believe that people in my organization use other's knowledge appropriately.
+#343#I believe that people in my organization share the best knowledge that they have.
+#343#I think the seller is honest.
+#343#I believe this seller will deliver to me the product I purchase according to the posted delivery terms and conditions
+#343#I believe this seller will deliver to me a product that matches the posted description.
+#343#Based on my experience with the online vendor in the past, I know it is honest.
+#343#Based on my experience with the online vendor in the past, I know it cares about customers.
+#343#Based on my experience with the online vendor in the past, I know it is not opportunistic.
+#343#Based on my experience with the online vendor in the past, I know it is predictable.
+#343#Based on my experience with the online vendor in the past, I know it knows the market.
+#343#I feel safe conducting business with the online vendor because the Better Business Bureau will protect me.
+#343#I feel safe conducting business with the online vendor because it provides a 1-800 number.
+#343#I feel safe conducting business with the online vendor because of its statements of guarantees.
+#343#The behavior of IS employees instills confidence in users.
+#343#Users will feel safe in their transactions with IS's employees.
+#343#IS employees are consistently courteous with users.
+#343#IS employees have the knowledge to do their job well.
+#343#The behavior of employees in excellent information services will instill confidence in users.
+#343#Employees in excellent information services will be consistently courteous with users.
+#343#Employees in excellent information services will have the knowledge to answer users' questions.
+#343#The behavior of employees in our information services instills confidence in you.
+#343#Employees in our information services are consistently courteous with you.
+#343#Employees in our information services have the knowledge to answer your questions.
+#343#To what extent did you have confidence and trust in your project executive regarding his/her general fairness?
+#343#How free did you feel to discuss with the project executive the problems and difficulties you had in this project without jeopardizing your position or having it Ԩeld against youԠlater?
+#343#Project executives at times must make decisions that seem to be against the interests of their project managers. If this were to happen to you in this project, how much trust did you have that the project executiveӳ decision was justified by other considerations?
+#343#Our business relationship with [vendor name] is characterized by high levels of trust.
+#343#Our firm and [vendor name] generally trust each other that each will stay within the terms of the contract.
+#343#We and [vendor name] are generally skeptical of the information provided to each other .
+#343#I would have greater confidence in the explanations provided on such web sites than those offered by an agent.
+#343#I would trust the validity of quotes provided by the web more than those provided by an agent.
+#343#I believe such a web tool would provide more objective recommendations than an agent.
+#343#I would trust the recommendation of such web sites more than the recommendation of an agent with regard to the appropriate level of coverage for my needs.
+#343#I would feel more confident purchasing the policy through the web than through an agent.
+#343#I would be more confident filing a claim through the web than through an agent.
+#343#I believe such a web tool would provide more objective recommendations than an agent.
+#343#I would trust the recommendation of such web sites more than the recommendation of an agent with regard to the appropriate level of coverage for my needs.
+#343#I would find a lower price for my policy using the web than through an agent.
+#343#I would trust the validity of quotes provided by the web more than those provided by an agent.
+#343#My current auto insurance agent acts in my best interests.
+#343#My current auto insurance agent is honest in his/her dealings with me.
+#343#My current auto insurance agent is very knowledgeable about auto insurance policies.
+#343#Online companies tell the truth related to the collection and use of the personal information of their customers.
+#343#Online companies are honest with customers when it comes to collecting and using the personal information of their customers.
+#343#Online companies fulfill their promises about collecting and using personal information of their customers.
+#343#Online companies are in general predictable and consistent regarding the usage of the personal information of their customers.
+#343#Online companies are trustworthy in handling the personal information of their customers.
+#343#Supplier that is absolutely trustworthy.
+#343#Supplier that honors their promises.
+#343#Supplier that establishes a very high level of mutual confidence with your firm.
+#343#I feel that people are generally trustworthy.
+#343#I feel that people are generally reliable.
+#343#I trust Company X in handling my information.
+#343#Most of my teammates approach their job with professionalism and dedication.
+#343#I see no reason to doubt my teammates' competence and preparation for the job.
+#343#I can rely on other teammates not to make my job more difficult by careless work.
+#343#Most of my teammates can be relied upon to do as they say they will do.
+#343#This Web vendor would be competent in providing objective information about this product.
+#343#For me, getting objective product information from a website is: not at all important- extermely important.
+#343#This Web vendor would be honest in providing accurate information about this product.
+#343#For me, getting accurate product information from a website is: not at all important- exteremely important.
+#343#This Web vendor would be competent in delivering this product in a timely fashion.
+#343#For me, product delivery in a timely fashion is important.
+#343#This Web vendor would be honest in its dealings when I purchase this product from it.
+#343#For me, a Web vendor that is honest in its dealings with its customers is: not at all important- extremely important.
+#343#This Web vendor would not seek to take advantage of me if I purchase this product from it.
+#343#For me, a Web vendor that does not seek to take advantage of its customers is: not at all important- extremely important.
+#343#The person providing the DMS training was knowledgeable on this topic.
+#343#The person providing the DMS training was trustworthy.
+#343#The person providing the DMS training was credible.
+#343#The person providing the DMS training appeared to be an expert on this topic.
+#343#This site is trustworthy.
+#343#I believe that this Website vendor has my best interests in mind.
+#343#This website vendor gives the impression that it keeps promises and commitments.
+#343#I generally trust other people.
+#343#I generally have faith in humanity.
+#343#I feel that people are generally reliable.
+#343#I generally trust other people unless they give me reasons not to.
+#343#In general, people really do care about the well-being of others.
+#343#The typical person is sincerely concerned about the problems of others.
+#343#Most of the time, people care enough to try to be helpful, rather than just looking out for themselves.
+#343#In general, most folks keep their promises.
+#343#I think people generally try to back up their words with their actions.
+#343#Most people are honest in their dealings with others.
+#343#I believe that most professional people do a very good job at their work.
+#343#Most professionals are very knowledgeable in their chosen field.
+#343#A large majority of professional people are competent in their area of expertise.
+#343#I usually trust people until they give me a reason not to trust them.
+#343#I generally give people the benefit of the doubt when I first meet them.
+#343#My typical approach is to trust new acquaintances until they prove I should not trust them.
+#343#I feel that most Internet vendors would act in a customersҠbest interest.
+#343# If a customer required help, most Internet vendors would do their best to help.
+#343#Most Internet vendors are interested in customer well-being, not just their own wellbeing.
+#343#I am comfortable relying on Internet vendors to meet their obligations.
+#343#I feel fine doing business on the Internet since Internet vendors generally fulfill their agreements.
+#343#I always feel  confident that I can rely on Internet vendors to do their part when I interact with them.
+#343#In general, most Internet vendors are competent at serving their customers.
+#343#Most Internet vendors do a capable job at meeting customer needs.
+#343#I feel that most Internet vendors are good at what they do.
+#343#I believe that LegalAdvice.com would act in my best interest.
+#343#If I required help, LegalAdvice.com would do its best to help me.
+#343#LegalAdvice.com is interested in my well-being, not just its own.
+#343#LegalAdvice.com is truthful in its dealings with me.
+#343#I would characterize LegalAdvice.com as honest.
+#343#LegalAdvice.com would keep its commitments.
+#343#LegalAdvice.com is sincere and genuine.
+#343#LegalAdvice.com is competent and effective in providing legal advice.
+#343#LegalAdvice.com performs its role of giving legal advice very well.
+#343#Overall, LegalAdvice.com is a capable and proficient Internet legal advice provider.
+#343#In general, LegalAdvice.com is very knowledgeable about the law.
+#343#When an important legal issue or problem arises, I would feel comfortable depending on the information provided by LegalAdvice.com.
+#343#I can always rely on LegalAdvice.com in a tough legal situation.
+#343#I feel that I could count on LegalAdvice.com to help with a crucial legal problem.
+#343#Faced with a difficult legal situation that required me to hire a lawyer (for a fee), I would use the firm backing LegalAdvice.com.
+#343#The contractors have been frank in dealing with us.
+#343#Promises made by the contractors are reliable.
+#343#The contractors are knowledgeable regarding their services.
+#343#The contractors do not make false claims.
+#343#If problems such as delays arise, the contractors are honest  about the problems.
+#343#The escrow method in Amazonӳ auction marketplace: guarantees that I will get what I pay for.
+#343#The escrow method in Amazonӳ auction marketplace: protects me from an inappropriate behavior of sellers.
+#343#The escrow method in Amazonӳ auction marketplace: guarantees that sellers cannot cheat easily.
+#343#I believe my credit card company will protect me in case of problematic transactions with sellers in Amazonӳ auction marketplace.
+#343#I am confident that my credit card payments are safe in case of disputed purchases from sellers in Amazonӳ auction marketplace.
+#343#My credit card company will stand by me if problems occur during transactions with sellers in Amazonӳ auction marketplace.
+#343#As an auction host/intermediary, Amazon can be trusted at all times.
+#343#As an auction host/intermediary, Amazon has high integrity.
+#343#Amazon is a competent and knowledgeable auction host/intermediary.
+#343#Sellers in Amazonӳ auctions are in general reliable.
+#343#Sellers in Amazonӳ auctions are in general honest.
+#343#Sellers in Amazonӳ auctions are in general trustworthy.
+#343#Most Internet retailers and auction sellers are reliable.
+#343#Most Internet retailers and auction sellers keep promises and commitments.
+#343#Most Internet retailers and auction sellers are honest.
+#343#I believe that online shopping is reliable.
+#343#I believe that what I ask for what I get in online shopping.
+#343#I think that the online store I purchased from performs the service right.
+#343#I trust the online store to deliver the product on time.
+#343#I trust that online companies would keep my best  interests in mind when dealing with (the information)
+#343#Online companies are in general predictable and consistent regarding the usage of (the information).
+#343#Online companies are always honest with customers when it comes to using (the information) that I would provide.
+#343#Most people on this team are basically honest and can be trusted.
+#343#Team members in my distributed team are always interested only in their own welfare.
+#343#Members in this team are always trustworthy.
+#343#In this team, one has to be alert or someone is likely to take advantage of you.
+#343#Team members in my distributed team are willing to help if you need it.
+#343#How knowledgeable is the person who wrote this message, on the topic of the message?
+#343#To what extent is the person who wrote this message an expert on the message topic?
+#343#How trustworthy is the person who wrote this message, on the topic of the message?
+#343#How reliable is the person who wrote this message, on the topic of the message?
+#343#Sellers in Amazonӳ/eBayӳ auctions are in general reliable.
+#343#Sellers in Amazonӳ/eBayӳ auctions are in general competent.
+#343#Sellers in Amazonӳ/eBayӳ auctions are in general honest.
+#343#Sellers in Amazonӳ/eBayӳ auctions are in general trustworthy.
+#343#As an auction host/intermediary, Amazon/eBay can be trusted at all times.
+#343#As an auction host/intermediary, Amazon/eBay has high integrity.
+#343#Amazon/eBay is a competent and knowledgeable auction host/intermediary.
+#343#I usually trust sellers unless they give me a reason not to trust them.
+#343#My typical approach is to trust sellers until they prove I should not trust them.
+#343#We will have confidence in one another on this team.
+#343#I will be able to rely on those I work with in this team.
+#343#There will be a noticeable lack of confidence among those I will work with.
+#343#Overall, the people will be very trustworthy.
+#343#We will usually be considerate of one anotherӳ feelings in this team.
+#343#The people in my team will be friendly.
+#343#I feel comfortable depending on my team members for the completion of the project.
+#343#I feel that I will not be able to count on my team members to help me.
+#343#I am comfortable letting other team members take responsibility for tasks which are critical to the project, even when I cannot monitor them.
+#343#I feel that I can trust my team members completely.
+#343#The vendor team is honest and truthful.
+#343#This is a trustworthy vendor.
+#343#The vendor team is interested in the client teamӳ well-being, not just their own.
+#343#The vendor team is very knowledgeable about information systems and technology.
+#343#If the client team required help, the vendor team would do its best to help.
+#343#The vendor team is a capable and proficient provider of IS outsourcing services.
+#343#Internet websites are safe environments in which to exchange information with others.
+#343#Internet websites are reliable environments in which to conduct business transactions.
+#343#Internet websites handle personal information submitted by users in a competent fashion.
+#343#I believe that this vendor would act in my best interest.
+#343#If I required help, the vendor would do its best to help me.
+#343#The vendor is interested in my well-being, not just its own.
+#343#The vendor is truthful in its dealings with me.
+#343#I would characterize the vendor as honest.
+#343#The vendor would keep its commitments.
+#343#The vendor is sincere and genuine.
+#343#The vendor is competent and effective in providing this data exchange.
+#343#The vendor performs its role of providing the data exchange very well.
+#343#In general, the vendor is very knowledgeable about issues of Web-based data exchanges.
+#343#This seller is likely to care for my welfare.
+#343#If there is a problem with my transaction, this seller will go out on a limb for me.
+#343#This seller is likely to make sacrifices for me if needed.
+#343#This seller is likely to keep my best interests in mind.
+#343#I believe this seller will deliver to me a product that matches the posted description.
+#343#I believe this seller will deliver to me a product according to the posted delivery terms and conditions.
+#343#This seller is likely to be reliable.
+#343#This seller is likely to be credible.
+#343#I usually trust sellers unless they give me a reason not to trust them.
+#343#generally give sellers the benefit of the doubt.
+#343#My typical approach is to trust sellers until they prove I should not trust them.
+#343#Firms consider the competence and skills of other member firms before doing business with them.
+#343#Firms consider the character and reliability of other member firms before doing business with them.
+#343#Firms expect other members to fulfill their obligations because they are members of the network.
+#343#Firms consider it important to be regarded by other members as being professionally competent.
+#343#Firms consider it important to be regarded by other members as being reliable and trustworthy.
+#343#Firms consider it important to fulfill their obligations to other members to maintain their reputation within the network.
+#343#Our business partner is competent and effective in their interactions with our organization.
+#343#Our business partner performs all of their roles very well.
+#343#Overall, this business partner is capable and proficient.
+#343#In general, this business partner is knowledgeable about their industry and business operations.
+#343#Our organization believes this business partner would act in our best interest.
+#343#If our organization required help, this business partner would do their best to provide assistance.
+#343#This business partner is interesting in our organizationӳ well being and not just its own.
+#343#This business partner is truthful in their dealings with our organization.
+#343#Our organization would characterize this business partner as being honest.
+#343#This business partner keeps their commitments.
+#343#This business partner is sincere and genuine.
+#343#Our business partner is competent and effective in their interactions with our organization.
+#343#Our business partner performs all of their roles very well.
+#343#Overall, this business partner is capable and proficient.
+#343#In general, this business partner is knowledgeable about their industry and business operations.
+#343#Our organization believes this business partner would act in our best interest.
+#343#If our organization required help, this business partner would do their best to provide assistance.
+#343#This business partner is interesting in our organizationӳ well being and not just its own.
+#343#This business partner is truthful in their dealings with our organization.
+#343#Our organization would characterize this business partner as being honest.
+#343#This business partner keeps their commitments.
+#343#This business partner is sincere and genuine.
+#343#Members of the team have made considerable emotional investments in our working relationships.
+#343#Members of the team have a sharing relationship with each other. We can freely share our ideas, feelings, and hopes.
+#343#On this team we can talk freely with each other about difficulties we are having and know that others will want to listen.
+#343#Members of the team would feel a sense of loss we could no longer work together.
+#343#Members of the team know that everyone on the team approaches their work with professionalism and dedication.
+#343#Given the track records of the team members, we see no reason to doubt each other's competence and preparation for a job.
+#343#Members of the team believe they will be able to rely on other members of the team not to make a job more difficult by careless work.
+#343#If I had a challenging legal problem, I would want to use LegalAdvice.com again.
+#343#I am willing to share confidential information with this worker.
+#343#I generally give sellers the benefit of the doubt.
